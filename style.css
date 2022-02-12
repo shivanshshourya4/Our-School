@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(orange,cyan);
+}
+
+p1{
+    font-size: 24;
+}
+
+.image-section {
+  display: flex;
+  justify-content:space-center;    
+}
+
+.selection-style{
+  margin-left:25px;
+  margin-right:25px;
+  
+}
+
+
+.line{
+    height:6px;
+    background-color:black;
+    width:960px;
+    margin:8px auto;
+}
